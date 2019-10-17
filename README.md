@@ -18,5 +18,6 @@ https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/li
 Nest an Anchor element within a paragraph
 https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/nest-an-anchor-element-within-a-paragraph
 ............
-
-
+Make Dead Links Using the Hash Symbol
+https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/make-dead-links-using-the-hash-symbol
+.....................
