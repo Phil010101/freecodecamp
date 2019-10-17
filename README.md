@@ -13,6 +13,9 @@ anchor elements
 https://www.w3.org/MarkUp/1995-archive/Elements/A.html#targetText=Anchors,or%20both)%20of%20a%20link.
 ..................
 Link to Internal Sections of a Page with Anchor Elements.
-
+.................
+Nest an Anchor element within a paragraph
+https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/nest-an-anchor-element-within-a-paragraph
+............
 
 https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/link-to-internal-sections-of-a-page-with-anchor-elements
