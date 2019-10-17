@@ -24,3 +24,6 @@ https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/ma
 Turning an image into a link
 https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/turn-an-image-into-a-link
 ....................
+Bullet Point List
+https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/create-a-bulleted-unordered-list
+.....................
