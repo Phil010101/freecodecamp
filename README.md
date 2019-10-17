@@ -30,3 +30,6 @@ https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/cr
 Ordered List
 https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/create-an-ordered-list
 .....................
+Creating a text field
+https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/create-a-text-field
+........................
