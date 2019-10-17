@@ -21,3 +21,6 @@ https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/ne
 Make Dead Links Using the Hash Symbol
 https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/make-dead-links-using-the-hash-symbol
 .....................
+Turning an image into a link
+https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/turn-an-image-into-a-link
+....................
