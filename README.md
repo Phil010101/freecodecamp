@@ -51,3 +51,6 @@ https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/cr
 Creating a set of checkboxes
 https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/create-a-set-of-checkboxes
 ........................
+Use the Value attribute with Radio buttons and Checkboxes
+https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/use-the-value-attribute-with-radio-buttons-and-checkboxes
+.......................
