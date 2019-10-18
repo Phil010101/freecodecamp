@@ -66,3 +66,9 @@ https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/de
 Defining the head and body of an HTML document
 https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/define-the-head-and-body-of-an-html-document
 ...................
+CSS
+
+.......................
+Use CSS Selectors to Style Elements
+https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-css-selectors-to-style-elements
+.......................
