@@ -33,3 +33,6 @@ https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/cr
 Creating a text field
 https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/create-a-text-field
 ........................
+Add placeholder text to a text field
+https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/add-placeholder-text-to-a-text-field
+........................
