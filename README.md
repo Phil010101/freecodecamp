@@ -57,3 +57,9 @@ https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/us
 Check Radio Buttons and Checkboxes by Default
 https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/check-radio-buttons-and-checkboxes-by-default
 .......................
+Nest boxes using Divs
+https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/nest-many-elements-within-a-single-div-element
+......................
+Declaring Doc Type at top of page
+https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/declare-the-doctype-of-an-html-document
+....................
