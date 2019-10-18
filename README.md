@@ -42,3 +42,6 @@ https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/cr
 Add a Submit Button to a Form
 https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/add-a-submit-button-to-a-form
 .........................
+Use HTML5 to Require a Field
+https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/use-html5-to-require-a-field
+.....................
