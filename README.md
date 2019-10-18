@@ -54,3 +54,6 @@ https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/cr
 Use the Value attribute with Radio buttons and Checkboxes
 https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/use-the-value-attribute-with-radio-buttons-and-checkboxes
 .......................
+Check Radio Buttons and Checkboxes by Default
+https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/check-radio-buttons-and-checkboxes-by-default
+.......................
