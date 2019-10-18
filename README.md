@@ -78,3 +78,6 @@ https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-a-css-cla
 Style Multiple Elements with a CSS Class
 https://www.freecodecamp.org/learn/responsive-web-design/basic-css/style-multiple-elements-with-a-css-class
 ...................
+Changing font size of the element
+https://www.freecodecamp.org/learn/responsive-web-design/basic-css/change-the-font-size-of-an-element
+................
