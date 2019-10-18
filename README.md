@@ -81,3 +81,6 @@ https://www.freecodecamp.org/learn/responsive-web-design/basic-css/style-multipl
 Changing font size of the element
 https://www.freecodecamp.org/learn/responsive-web-design/basic-css/change-the-font-size-of-an-element
 ................
+Changing the Font Family
+https://www.freecodecamp.org/learn/responsive-web-design/basic-css/set-the-font-family-of-an-element
+..............
