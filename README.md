@@ -63,3 +63,6 @@ https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/ne
 Declaring Doc Type at top of page
 https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/declare-the-doctype-of-an-html-document
 ....................
+Defining the head and body of an HTML document
+https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/define-the-head-and-body-of-an-html-document
+...................
