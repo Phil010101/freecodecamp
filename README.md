@@ -48,3 +48,6 @@ https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/us
 Radio Buttons
 https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/create-a-set-of-radio-buttons
 .....................
+Creating a set of checkboxes
+https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/create-a-set-of-checkboxes
+........................
