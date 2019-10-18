@@ -75,3 +75,6 @@ https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-css-selec
 Use a CSS Class to Style an Element
 https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-a-css-class-to-style-an-element
 .......................
+Style Multiple Elements with a CSS Class
+https://www.freecodecamp.org/learn/responsive-web-design/basic-css/style-multiple-elements-with-a-css-class
+...................
