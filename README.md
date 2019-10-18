@@ -72,3 +72,6 @@ CSS
 Use CSS Selectors to Style Elements
 https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-css-selectors-to-style-elements
 .......................
+Use a CSS Class to Style an Element
+https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-a-css-class-to-style-an-element
+.......................
