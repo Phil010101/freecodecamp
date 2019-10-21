@@ -90,3 +90,6 @@ https://www.freecodecamp.org/learn/responsive-web-design/basic-css/import-a-goog
 using commenting out to degrade to another font
 https://www.freecodecamp.org/learn/responsive-web-design/basic-css/specify-how-fonts-should-degrade
 .............
+re-size images by creating new class
+https://www.freecodecamp.org/learn/responsive-web-design/basic-css/size-your-images
+.............
