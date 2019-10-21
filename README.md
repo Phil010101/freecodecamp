@@ -177,3 +177,6 @@ https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-rgb-to-mi
 Use CSS VARIABLES to change several elements at once
 https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-css-variables-to-change-several-elements-at-once
 .............
+creating a custom CSS VARIABLE
+https://www.freecodecamp.org/learn/responsive-web-design/basic-css/create-a-custom-css-variable
+............
