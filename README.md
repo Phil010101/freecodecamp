@@ -153,3 +153,6 @@ https://www.freecodecamp.org/learn/responsive-web-design/basic-css/override-styl
 Override Classes with ID's
 https://www.freecodecamp.org/learn/responsive-web-design/basic-css/override-class-declarations-by-styling-id-attributes
 .............
+Override Classes by InLines
+https://www.freecodecamp.org/learn/responsive-web-design/basic-css/override-class-declarations-with-inline-styles
+..............
