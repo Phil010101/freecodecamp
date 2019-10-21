@@ -114,3 +114,6 @@ https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-an-id-att
 Adjusting the padding of a box
 https://www.freecodecamp.org/learn/responsive-web-design/basic-css/adjust-the-padding-of-an-element
 .................
+adjusting the margin 
+https://www.freecodecamp.org/learn/responsive-web-design/basic-css/adjust-the-margin-of-an-element
+................
