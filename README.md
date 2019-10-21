@@ -159,3 +159,6 @@ https://www.freecodecamp.org/learn/responsive-web-design/basic-css/override-clas
 Override All Styles with !Important
 https://www.freecodecamp.org/learn/responsive-web-design/basic-css/override-all-other-styles-by-using-important
 ................
+Hex Code for colours
+https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-hex-code-for-specific-colors
+................
