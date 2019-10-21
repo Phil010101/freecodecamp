@@ -135,3 +135,6 @@ https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-clockwise
 using Attribute Selectors to style elements
 https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-attribute-selectors-to-style-elements
 ...................
+Absolute Vs Relative units of sizing
+https://www.freecodecamp.org/learn/responsive-web-design/basic-css/understand-absolute-versus-relative-units
+...............
