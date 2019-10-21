@@ -168,3 +168,6 @@ https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-hex-code-
 Using abbreviated Hex
 https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-abbreviated-hex-code
 ..............
+using RGB for colour
+https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-rgb-values-to-color-elements
+.............
