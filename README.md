@@ -147,3 +147,6 @@ https://www.freecodecamp.org/learn/responsive-web-design/basic-css/inherit-style
 Priotise One Style over another
 https://www.freecodecamp.org/learn/responsive-web-design/basic-css/prioritize-one-style-over-another
 .............
+Override Styles in Subsequent CSS
+https://www.freecodecamp.org/learn/responsive-web-design/basic-css/override-styles-in-subsequent-css
+............
