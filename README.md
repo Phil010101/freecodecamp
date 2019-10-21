@@ -156,3 +156,6 @@ https://www.freecodecamp.org/learn/responsive-web-design/basic-css/override-clas
 Override Classes by InLines
 https://www.freecodecamp.org/learn/responsive-web-design/basic-css/override-class-declarations-with-inline-styles
 ..............
+Override All Styles with !Important
+https://www.freecodecamp.org/learn/responsive-web-design/basic-css/override-all-other-styles-by-using-important
+................
