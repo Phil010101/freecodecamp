@@ -150,3 +150,6 @@ https://www.freecodecamp.org/learn/responsive-web-design/basic-css/prioritize-on
 Override Styles in Subsequent CSS
 https://www.freecodecamp.org/learn/responsive-web-design/basic-css/override-styles-in-subsequent-css
 ............
+Override Classes with ID's
+https://www.freecodecamp.org/learn/responsive-web-design/basic-css/override-class-declarations-by-styling-id-attributes
+.............
