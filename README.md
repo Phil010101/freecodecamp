@@ -165,3 +165,6 @@ https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-hex-code-
 Using Hex code to mix colours
 https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-hex-code-to-mix-colors
 ...............
+Using abbreviated Hex
+https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-abbreviated-hex-code
+..............
