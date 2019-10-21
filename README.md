@@ -99,3 +99,9 @@ https://www.freecodecamp.org/learn/responsive-web-design/basic-css/add-borders-a
 adding rounded corners via border-radius
 https://www.freecodecamp.org/learn/responsive-web-design/basic-css/add-rounded-corners-with-border-radius
 ..................
+Making circular images with Border-Radius
+https://www.freecodecamp.org/learn/responsive-web-design/basic-css/make-circular-images-with-a-border-radius
+................
+giving a background colour to a div element
+https://www.freecodecamp.org/learn/responsive-web-design/basic-css/give-a-background-color-to-a-div-element
+................
