@@ -87,3 +87,6 @@ https://www.freecodecamp.org/learn/responsive-web-design/basic-css/set-the-font-
 Importing a Google Font
 https://www.freecodecamp.org/learn/responsive-web-design/basic-css/import-a-google-font
 .............
+using commenting out to degrade to another font
+https://www.freecodecamp.org/learn/responsive-web-design/basic-css/specify-how-fonts-should-degrade
+.............
