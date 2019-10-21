@@ -93,3 +93,6 @@ https://www.freecodecamp.org/learn/responsive-web-design/basic-css/specify-how-f
 re-size images by creating new class
 https://www.freecodecamp.org/learn/responsive-web-design/basic-css/size-your-images
 .............
+Add borders around the element
+https://www.freecodecamp.org/learn/responsive-web-design/basic-css/add-borders-around-your-elements
+.............
