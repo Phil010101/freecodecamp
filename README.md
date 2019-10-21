@@ -174,3 +174,6 @@ https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-rgb-value
 Use RGB to Mix colours
 https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-rgb-to-mix-colors
 ............
+Use CSS VARIABLES to change several elements at once
+https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-css-variables-to-change-several-elements-at-once
+.............
