@@ -138,3 +138,6 @@ https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-attribute
 Absolute Vs Relative units of sizing
 https://www.freecodecamp.org/learn/responsive-web-design/basic-css/understand-absolute-versus-relative-units
 ...............
+Style the HTML Body Element
+https://www.freecodecamp.org/learn/responsive-web-design/basic-css/style-the-html-body-element
+.............
