@@ -96,3 +96,6 @@ https://www.freecodecamp.org/learn/responsive-web-design/basic-css/size-your-ima
 Add borders around the element
 https://www.freecodecamp.org/learn/responsive-web-design/basic-css/add-borders-around-your-elements
 .............
+adding rounded corners via border-radius
+https://www.freecodecamp.org/learn/responsive-web-design/basic-css/add-rounded-corners-with-border-radius
+..................
