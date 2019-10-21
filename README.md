@@ -111,3 +111,6 @@ https://www.freecodecamp.org/learn/responsive-web-design/basic-css/set-the-id-of
 use an ID to style an element
 https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-an-id-attribute-to-style-an-element
 .................
+Adjusting the padding of a box
+https://www.freecodecamp.org/learn/responsive-web-design/basic-css/adjust-the-padding-of-an-element
+.................
