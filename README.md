@@ -141,3 +141,6 @@ https://www.freecodecamp.org/learn/responsive-web-design/basic-css/understand-ab
 Style the HTML Body Element
 https://www.freecodecamp.org/learn/responsive-web-design/basic-css/style-the-html-body-element
 .............
+Inherit Styles from the Body Element
+https://www.freecodecamp.org/learn/responsive-web-design/basic-css/inherit-styles-from-the-body-element
+...............
