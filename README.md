@@ -171,3 +171,6 @@ https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-abbreviat
 using RGB for colour
 https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-rgb-values-to-color-elements
 .............
+Use RGB to Mix colours
+https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-rgb-to-mix-colors
+............
