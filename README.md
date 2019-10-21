@@ -162,3 +162,6 @@ https://www.freecodecamp.org/learn/responsive-web-design/basic-css/override-all-
 Hex Code for colours
 https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-hex-code-for-specific-colors
 ................
+Using Hex code to mix colours
+https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-hex-code-to-mix-colors
+...............
