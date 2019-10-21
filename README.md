@@ -120,3 +120,6 @@ https://www.freecodecamp.org/learn/responsive-web-design/basic-css/adjust-the-ma
 adding a negative margin
 https://www.freecodecamp.org/learn/responsive-web-design/basic-css/add-a-negative-margin-to-an-element
 ...............
+Add Different Padding to Each Side of an Element
+https://www.freecodecamp.org/learn/responsive-web-design/basic-css/add-different-padding-to-each-side-of-an-element
+..............
