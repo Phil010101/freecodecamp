@@ -84,3 +84,6 @@ https://www.freecodecamp.org/learn/responsive-web-design/basic-css/change-the-fo
 Changing the Font Family
 https://www.freecodecamp.org/learn/responsive-web-design/basic-css/set-the-font-family-of-an-element
 ..............
+Importing a Google Font
+https://www.freecodecamp.org/learn/responsive-web-design/basic-css/import-a-google-font
+.............
