@@ -126,3 +126,6 @@ https://www.freecodecamp.org/learn/responsive-web-design/basic-css/add-different
 add different margins to each side of element
 https://www.freecodecamp.org/learn/responsive-web-design/basic-css/add-different-margins-to-each-side-of-an-element
 ...............
+Clockwise notation for padding
+https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-clockwise-notation-to-specify-the-padding-of-an-element
+....................
