@@ -180,3 +180,6 @@ https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-css-varia
 creating a custom CSS VARIABLE
 https://www.freecodecamp.org/learn/responsive-web-design/basic-css/create-a-custom-css-variable
 ............
+Attach a Fallback value to a CSS Variable
+https://www.freecodecamp.org/learn/responsive-web-design/basic-css/attach-a-fallback-value-to-a-css-variable
+...........
