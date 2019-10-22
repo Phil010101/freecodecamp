@@ -186,3 +186,6 @@ https://www.freecodecamp.org/learn/responsive-web-design/basic-css/attach-a-fall
 Improve Compatibility with Browser Fallbacks
 https://www.freecodecamp.org/learn/responsive-web-design/basic-css/improve-compatibility-with-browser-fallbacks
 .............
+Inherit CSS Variables
+https://www.freecodecamp.org/learn/responsive-web-design/basic-css/inherit-css-variables
+................
