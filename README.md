@@ -192,3 +192,6 @@ https://www.freecodecamp.org/learn/responsive-web-design/basic-css/inherit-css-v
 Changing a Variable for a specific area
 https://www.freecodecamp.org/learn/responsive-web-design/basic-css/change-a-variable-for-a-specific-area
 ................
+Media Query to change a variable
+https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-a-media-query-to-change-a-variable
+.................
