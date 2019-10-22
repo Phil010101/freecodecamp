@@ -189,3 +189,6 @@ https://www.freecodecamp.org/learn/responsive-web-design/basic-css/improve-compa
 Inherit CSS Variables
 https://www.freecodecamp.org/learn/responsive-web-design/basic-css/inherit-css-variables
 ................
+Changing a Variable for a specific area
+https://www.freecodecamp.org/learn/responsive-web-design/basic-css/change-a-variable-for-a-specific-area
+................
