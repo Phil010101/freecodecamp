@@ -183,3 +183,6 @@ https://www.freecodecamp.org/learn/responsive-web-design/basic-css/create-a-cust
 Attach a Fallback value to a CSS Variable
 https://www.freecodecamp.org/learn/responsive-web-design/basic-css/attach-a-fallback-value-to-a-css-variable
 ...........
+Improve Compatibility with Browser Fallbacks
+https://www.freecodecamp.org/learn/responsive-web-design/basic-css/improve-compatibility-with-browser-fallbacks
+.............
