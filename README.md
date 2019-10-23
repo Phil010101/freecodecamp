@@ -211,3 +211,10 @@ https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-p
 Making Typography Responsive
 https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-principles/make-typography-responsive
 ................
+
+FLEXBOX
+
+...............
+Using a Display Property to Position Two Boxes
+https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-display-flex-to-position-two-boxes
+..............
