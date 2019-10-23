@@ -248,3 +248,6 @@ https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-ali
 Using Flex-Wrap Property to wrap a row or a column
 https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-flex-wrap-property-to-wrap-a-row-or-column
 ..............
+Using the Flex-shrink property to shrink items
+https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-flex-shrink-property-to-shrink-items
+..............
