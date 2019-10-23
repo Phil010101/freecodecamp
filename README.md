@@ -251,3 +251,6 @@ https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-fle
 Using the Flex-shrink property to shrink items
 https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-flex-shrink-property-to-shrink-items
 ..............
+Using Flex-Grow property to expand items
+https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-flex-grow-property-to-expand-items
+..............
