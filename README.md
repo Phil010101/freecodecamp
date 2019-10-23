@@ -218,3 +218,6 @@ FLEXBOX
 Using a Display Property to Position Two Boxes
 https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-display-flex-to-position-two-boxes
 ..............
+Adding Flex Superpowers to the Tweet Embed
+https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/add-flex-superpowers-to-the-tweet-embed
+.............
