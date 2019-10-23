@@ -233,3 +233,6 @@ https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-fle
 Flex-Direction Property to Create a Column in Tweet Embed
 https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/apply-the-flex-direction-property-to-create-a-column-in-the-tweet-embed
 ................
+Align Elements Using thr Justify-Content Property
+https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/align-elements-using-the-justify-content-property
+.................
