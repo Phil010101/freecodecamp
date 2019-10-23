@@ -263,3 +263,6 @@ https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-fle
 using the Order property to Re-arrange Items
 https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-order-property-to-rearrange-items
 ...................
+Using Self-Align Property
+https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-align-self-property
+...................
