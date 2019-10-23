@@ -242,3 +242,6 @@ https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-jus
 Allign elements using Align-Items Property
 https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/align-elements-using-the-align-items-property
 ..............
+Align Elemets using Align-Items Property in Tweet Embed
+https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-align-items-property-in-the-tweet-embed
+...............
