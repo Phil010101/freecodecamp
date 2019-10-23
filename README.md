@@ -195,3 +195,10 @@ https://www.freecodecamp.org/learn/responsive-web-design/basic-css/change-a-vari
 Media Query to change a variable
 https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-a-media-query-to-change-a-variable
 .................
+
+RESPONSIVE WEB DESIGN
+
+..................
+Creating a Media Query
+https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-principles/create-a-media-query
+..................
