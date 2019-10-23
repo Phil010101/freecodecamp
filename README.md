@@ -239,3 +239,6 @@ https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/align-eleme
 Using the Justify-Content Property in the Tweet Embed
 https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-justify-content-property-in-the-tweet-embed
 .................
+Allign elements using Align-Items Property
+https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/align-elements-using-the-align-items-property
+..............
