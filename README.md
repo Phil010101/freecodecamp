@@ -224,3 +224,6 @@ https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/add-flex-su
 Use the Flex-Direction Property to make a Row
 https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-flex-direction-property-to-make-a-row
 ...............
+Apply the Flex-Direction Property to Create Rows in Tweet Embed
+https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/apply-the-flex-direction-property-to-create-rows-in-the-tweet-embed
+..............
