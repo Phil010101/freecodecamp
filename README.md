@@ -205,3 +205,6 @@ https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-p
 Making an Image Reponsive
 https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-principles/make-an-image-responsive
 ..................
+Retina Image
+https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-principles/use-a-retina-image-for-higher-resolution-displays
+..................
