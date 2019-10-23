@@ -208,3 +208,6 @@ https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-p
 Retina Image
 https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-principles/use-a-retina-image-for-higher-resolution-displays
 ..................
+Making Typography Responsive
+https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-principles/make-typography-responsive
+................
