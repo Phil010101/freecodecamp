@@ -230,3 +230,6 @@ https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/apply-the-f
 Flex-Direction Property to make a Column
 https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-flex-direction-property-to-make-a-column
 ................
+Flex-Direction Property to Create a Column in Tweet Embed
+https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/apply-the-flex-direction-property-to-create-a-column-in-the-tweet-embed
+................
