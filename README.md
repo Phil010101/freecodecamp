@@ -221,3 +221,6 @@ https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-display
 Adding Flex Superpowers to the Tweet Embed
 https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/add-flex-superpowers-to-the-tweet-embed
 .............
+Use the Flex-Direction Property to make a Row
+https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-flex-direction-property-to-make-a-row
+...............
