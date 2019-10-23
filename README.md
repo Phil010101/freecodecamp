@@ -257,3 +257,6 @@ https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-fle
 Using Flex-Basis Property to set the initial size of an item
 https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-flex-basis-property-to-set-the-initial-size-of-an-item
 ................
+Using the Flex Shorthand Property
+https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-flex-shorthand-property
+..................
