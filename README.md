@@ -202,3 +202,6 @@ RESPONSIVE WEB DESIGN
 Creating a Media Query
 https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-principles/create-a-media-query
 ..................
+Making an Image Reponsive
+https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-principles/make-an-image-responsive
+..................
