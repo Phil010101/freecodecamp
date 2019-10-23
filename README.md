@@ -260,3 +260,6 @@ https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-fle
 Using the Flex Shorthand Property
 https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-flex-shorthand-property
 ..................
+using the Order property to Re-arrange Items
+https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-order-property-to-rearrange-items
+...................
